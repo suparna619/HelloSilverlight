@@ -1,0 +1,12 @@
+D:\visualStudio\HelloSilverlight\HelloSilverlight\Bin\Debug\HelloSilverlight.dll
+D:\visualStudio\HelloSilverlight\HelloSilverlight\Bin\Debug\HelloSilverlight.pdb
+D:\visualStudio\HelloSilverlight\HelloSilverlight\Bin\Debug\AppManifest.xaml
+D:\visualStudio\HelloSilverlight\HelloSilverlight\Bin\Debug\HelloSilverlight.xap
+D:\visualStudio\HelloSilverlight\HelloSilverlight\Bin\Debug\HelloSilverlightTestPage.html
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\HelloSilverlight.csprojResolveAssemblyReference.cache
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\App.g.cs
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\MainPage.g.cs
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\HelloSilverlight.g.resources
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\HelloSilverlight.dll
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\HelloSilverlight.pdb
+D:\visualStudio\HelloSilverlight\HelloSilverlight\obj\Debug\XapCacheFile.xml

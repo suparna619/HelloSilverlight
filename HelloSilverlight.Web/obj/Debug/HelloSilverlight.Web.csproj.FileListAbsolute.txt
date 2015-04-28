@@ -1,0 +1,5 @@
+D:\visualStudio\HelloSilverlight\HelloSilverlight.Web\bin\HelloSilverlight.Web.dll
+D:\visualStudio\HelloSilverlight\HelloSilverlight.Web\bin\HelloSilverlight.Web.pdb
+D:\visualStudio\HelloSilverlight\HelloSilverlight.Web\obj\Debug\HelloSilverlight.Web.csprojResolveAssemblyReference.cache
+D:\visualStudio\HelloSilverlight\HelloSilverlight.Web\obj\Debug\HelloSilverlight.Web.dll
+D:\visualStudio\HelloSilverlight\HelloSilverlight.Web\obj\Debug\HelloSilverlight.Web.pdb
